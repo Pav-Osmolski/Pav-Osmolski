@@ -3,12 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.pawel-osmolski.com/">
-    <img src="https://img.shields.io/badge/Portfolio-pawel--osmolski.com-18181B?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/pawel-osmolski/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pawel_Osmolski-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="https://www.pawel-osmolski.com/"><img src="https://img.shields.io/badge/Portfolio-pawel--osmolski.com-18181B?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/pawel-osmolski/"><img src="https://img.shields.io/badge/LinkedIn-Pawel_Osmolski-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center"><strong>Web by trade. Open source by habit. Occasionally lost in graphics APIs.</strong></p>
