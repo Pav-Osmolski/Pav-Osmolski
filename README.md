@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.pawel-osmolski.com/"><img src="https://img.shields.io/badge/Portfolio-pawel--osmolski.com-18181B?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="http://www.pawel-osmolski.com/"><img src="https://img.shields.io/badge/Portfolio-pawel--osmolski.com-18181B?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/pawel-osmolski/"><img src="https://img.shields.io/badge/LinkedIn-Pawel_Osmolski-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -138,7 +138,7 @@ A modernised **Elden Ring regulation and CSV parameter merging utility** with ve
 
 ### Elsewhere
 
-[**Portfolio**](https://www.pawel-osmolski.com/) · [**LinkedIn**](https://www.linkedin.com/in/pawel-osmolski/) · [**GitHub**](https://github.com/Pav-Osmolski)
+[**Portfolio**](http://www.pawel-osmolski.com/) · [**LinkedIn**](https://www.linkedin.com/in/pawel-osmolski/) · [**GitHub**](https://github.com/Pav-Osmolski)
 
 <sub>Thanks for stopping by. Have a rummage around the repos.</sub>
 
