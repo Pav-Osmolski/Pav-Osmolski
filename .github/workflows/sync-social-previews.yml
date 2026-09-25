@@ -1,0 +1,79 @@
+name: Sync Social Preview Images
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/sync-social-previews.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Fetch repository social previews
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p assets/projects
+
+          response="$(curl -fsSL \
+            -H "Authorization: bearer ${GH_TOKEN}" \
+            -H "Content-Type: application/json" \
+            https://api.github.com/graphql \
+            --data-binary @- <<'JSON'
+          {
+            "query": "query { ampboard: repository(owner: \"Pav-Osmolski\", name: \"AMPBoard\") { openGraphImageUrl } darkone: repository(owner: \"Pav-Osmolski\", name: \"DarkOneJSP3\") { openGraphImageUrl } rest: repository(owner: \"Pav-Osmolski\", name: \"ReshadeEffectShaderToggler\") { openGraphImageUrl } ermods: repository(owner: \"Pav-Osmolski\", name: \"ERModsMerger\") { openGraphImageUrl } }"
+          }
+          JSON
+          )"
+
+          download_preview() {
+            local key="$1"
+            local output="$2"
+            local url
+
+            url="$(jq -r ".data.${key}.openGraphImageUrl // empty" <<<"${response}")"
+
+            if [[ -z "${url}" ]]; then
+              echo "No openGraphImageUrl returned for ${key}" >&2
+              exit 1
+            fi
+
+            echo "Fetching ${key} social preview"
+            curl -fL --retry 3 --retry-delay 2 "${url}" -o "${output}"
+          }
+
+          download_preview ampboard assets/projects/AMPBoard.jpg
+          download_preview darkone assets/projects/DarkOneJSP3.jpg
+          download_preview rest assets/projects/REST.jpg
+          download_preview ermods assets/projects/ERModsMerger.jpg
+
+          file assets/projects/*
+
+      - name: Commit refreshed previews
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if git diff --quiet -- assets/projects; then
+            echo "Social preview images are already current."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/projects
+          git commit -m "Sync repository social preview images"
+          git push
