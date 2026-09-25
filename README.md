@@ -1,12 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Pav Osmolski - Senior Web Developer, Software Engineer and Open Source Developer">
+</p>
 
-# Pav Osmolski
-
-### Senior Web Developer · Software Engineer · Open Source Developer
-
-**Web by trade. Open source by habit. Occasionally lost in graphics APIs.**
-
-<p>
+<p align="center">
   <a href="https://www.pawel-osmolski.com/">
     <img src="https://img.shields.io/badge/Portfolio-pawel--osmolski.com-18181B?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
@@ -15,7 +11,7 @@
   </a>
 </p>
 
-</div>
+<p align="center"><strong>Web by trade. Open source by habit. Occasionally lost in graphics APIs.</strong></p>
 
 <br>
 
