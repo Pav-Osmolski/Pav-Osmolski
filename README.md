@@ -21,7 +21,7 @@ Outside conventional web development, I build and maintain open-source software 
 
 ## Toolbox
 
-<table>
+<table align="center">
 <tr>
 <td valign="top" width="33%">
 
