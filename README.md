@@ -64,7 +64,7 @@ Outside conventional web development, I build and maintain open-source software 
 <td width="50%" valign="top">
 
 <a href="https://github.com/Pav-Osmolski/AMPBoard">
-  <img src="https://opengraph.githubassets.com/profile-20260925/Pav-Osmolski/AMPBoard" width="100%" alt="AMPBoard social preview">
+  <img src="./assets/projects/AMPBoard.jpg" width="100%" alt="AMPBoard social preview">
 </a>
 
 ### [AMPBoard](https://github.com/Pav-Osmolski/AMPBoard)
@@ -79,7 +79,7 @@ A modern localhost and remote dashboard for **XAMPP, LAMP and MAMP** development
 <td width="50%" valign="top">
 
 <a href="https://github.com/Pav-Osmolski/DarkOneJSP3">
-  <img src="https://opengraph.githubassets.com/profile-20260925/Pav-Osmolski/DarkOneJSP3" width="100%" alt="DarkOneJSP3 social preview">
+  <img src="./assets/projects/DarkOneJSP3.jpg" width="100%" alt="DarkOneJSP3 social preview">
 </a>
 
 ### [DarkOneJSP3](https://github.com/Pav-Osmolski/DarkOneJSP3)
@@ -97,7 +97,7 @@ A modern x64 continuation of tedGo's **DarkOne foobar2000 theme**, rebuilt aroun
 <td width="50%" valign="top">
 
 <a href="https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler">
-  <img src="https://opengraph.githubassets.com/profile-20260925/Pav-Osmolski/ReshadeEffectShaderToggler" width="100%" alt="ReShade Effect Shader Toggler Enhanced social preview">
+  <img src="./assets/projects/REST.jpg" width="100%" alt="ReShade Effect Shader Toggler Enhanced social preview">
 </a>
 
 ### [ReShade Effect Shader Toggler Enhanced](https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler)
@@ -112,7 +112,7 @@ An extensively developed version of **REST for ReShade 6.8+**, with fine-grained
 <td width="50%" valign="top">
 
 <a href="https://github.com/Pav-Osmolski/ERModsMerger">
-  <img src="https://opengraph.githubassets.com/profile-20260925/Pav-Osmolski/ERModsMerger" width="100%" alt="ERModsMerger social preview">
+  <img src="./assets/projects/ERModsMerger.jpg" width="100%" alt="ERModsMerger social preview">
 </a>
 
 ### [ERModsMerger](https://github.com/Pav-Osmolski/ERModsMerger)
