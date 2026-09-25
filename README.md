@@ -63,28 +63,32 @@ Outside conventional web development, I build and maintain open-source software 
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ [AMPBoard](https://github.com/Pav-Osmolski/AMPBoard)
+<a href="https://github.com/Pav-Osmolski/AMPBoard">
+  <img src="https://opengraph.githubassets.com/profile-20260925/Pav-Osmolski/AMPBoard" width="100%" alt="AMPBoard social preview">
+</a>
 
-A modern localhost and remote dashboard for **XAMPP, LAMP and MAMP** development environments.
+### [AMPBoard](https://github.com/Pav-Osmolski/AMPBoard)
 
-Project discovery, server and PHP information, live system stats, configuration tools and a responsive administration interface in one place.
+A modern localhost and remote dashboard for **XAMPP, LAMP and MAMP** development environments, with project discovery, live system stats, configuration tools and a responsive administration interface.
 
 **`PHP` `JavaScript` `MySQL` `Apache`**
 
-[Explore AMPBoard →](https://github.com/Pav-Osmolski/AMPBoard)
+[View project →](https://github.com/Pav-Osmolski/AMPBoard)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎵 [DarkOneJSP3](https://github.com/Pav-Osmolski/DarkOneJSP3)
+<a href="https://github.com/Pav-Osmolski/DarkOneJSP3">
+  <img src="https://opengraph.githubassets.com/profile-20260925/Pav-Osmolski/DarkOneJSP3" width="100%" alt="DarkOneJSP3 social preview">
+</a>
 
-A modern x64 continuation of tedGo's **DarkOne foobar2000 theme**, rebuilt around **Columns UI, JScript Panel 3 and JSplitter**.
+### [DarkOneJSP3](https://github.com/Pav-Osmolski/DarkOneJSP3)
 
-Expanded with enhanced components, deep customisation, layout management, Album Notes, Theme Manager and ongoing compatibility work.
+A modern x64 continuation of tedGo's **DarkOne foobar2000 theme**, rebuilt around **Columns UI, JScript Panel 3 and JSplitter**, with deeper customisation and modern theme management.
 
 **`JavaScript` `JScript Panel 3` `JSplitter` `UI/UX`**
 
-[Explore DarkOneJSP3 →](https://github.com/Pav-Osmolski/DarkOneJSP3)
+[View project →](https://github.com/Pav-Osmolski/DarkOneJSP3)
 
 </td>
 </tr>
@@ -92,28 +96,32 @@ Expanded with enhanced components, deep customisation, layout management, Album 
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 [ReShade Effect Shader Toggler Enhanced](https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler)
+<a href="https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler">
+  <img src="https://opengraph.githubassets.com/profile-20260925/Pav-Osmolski/ReshadeEffectShaderToggler" width="100%" alt="ReShade Effect Shader Toggler Enhanced social preview">
+</a>
 
-An extensively developed version of **REST for ReShade 6.8+**, providing fine-grained control over where effects are injected into a game's rendering pipeline.
+### [ReShade Effect Shader Toggler Enhanced](https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler)
 
-Supports **Direct3D 11, Vulkan, render-target injection, shader groups and automatic scene-colour injection**, including upscaled paths such as DLSS.
+An extensively developed version of **REST for ReShade 6.8+**, with fine-grained rendering-pipeline injection across **Direct3D 11 and Vulkan**, including upscaled paths such as DLSS.
 
 **`C++` `Direct3D 11` `Vulkan` `ReShade API`**
 
-[Explore REST Enhanced →](https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler)
+[View project →](https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚔️ [ERModsMerger](https://github.com/Pav-Osmolski/ERModsMerger)
+<a href="https://github.com/Pav-Osmolski/ERModsMerger">
+  <img src="https://opengraph.githubassets.com/profile-20260925/Pav-Osmolski/ERModsMerger" width="100%" alt="ERModsMerger social preview">
+</a>
 
-A modernised **Elden Ring regulation and CSV parameter merging utility** with safer, version-aware merging across many game releases.
+### [ERModsMerger](https://github.com/Pav-Osmolski/ERModsMerger)
 
-Includes semantic PARAM conflict handling, version-aware ParamDefs, transactional output, validation tooling, CI and automated releases.
+A modernised **Elden Ring regulation and CSV parameter merging utility** with version-aware merging, semantic PARAM conflict handling, validation tooling and automated releases.
 
 **`C#` `.NET` `Data processing` `GitHub Actions`**
 
-[Explore ERModsMerger →](https://github.com/Pav-Osmolski/ERModsMerger)
+[View project →](https://github.com/Pav-Osmolski/ERModsMerger)
 
 </td>
 </tr>
