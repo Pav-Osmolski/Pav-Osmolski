@@ -138,7 +138,7 @@ A modernised **Elden Ring regulation and CSV parameter merging utility** with ve
 
 ### Elsewhere
 
-[**Portfolio**](http://www.pawel-osmolski.com/) · [**LinkedIn**](https://www.linkedin.com/in/pawel-osmolski/) · [**GitHub**](https://github.com/Pav-Osmolski)
+[**Portfolio**](http://www.pawel-osmolski.com/) · [**LinkedIn**](https://www.linkedin.com/in/pawel-osmolski/) · [**GitHub**](https://github.com/Pav-Osmolski) · [**My Music**](https://www.filiposcar.com/)
 
 <sub>Thanks for stopping by. Have a rummage around the repos.</sub>
 
