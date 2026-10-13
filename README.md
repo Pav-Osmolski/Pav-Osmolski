@@ -92,21 +92,22 @@ A modern x64 continuation of tedGo's **DarkOne foobar2000 theme**, rebuilt aroun
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler">
-  <img src="./assets/projects/REST.jpg" width="100%" alt="ReShade Effect Shader Toggler Enhanced social preview">
+<a href="https://github.com/Pav-Osmolski/DS4Windows">
+  <img src="./assets/projects/DS4Windows.jpg" width="100%" alt="DS4Windows social preview">
 </a>
 
-### [ReShade Effect Shader Toggler Enhanced](https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler)
+### [DS4Windows](https://github.com/Pav-Osmolski/DS4Windows)
 
-An extensively developed version of **REST for ReShade 6.8+**, with fine-grained rendering-pipeline injection across **Direct3D 11 and Vulkan**, including upscaled paths such as DLSS.
+A modernised **Windows controller remapping application** with per-game profiles, gyro aiming, advanced haptics and adaptive triggers, alongside a redesigned interface and improved diagnostics.
 
-**`C++` `Direct3D 11` `Vulkan` `ReShade API`**
+**`C#` `.NET` `UI/UX` `GitHub Actions`**
 
-[View project →](https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler)
+[View project →](https://github.com/Pav-Osmolski/DS4Windows)
 
 </td>
 <td width="50%" valign="top">
 
+<!--
 <a href="https://github.com/Pav-Osmolski/ERModsMerger">
   <img src="./assets/projects/ERModsMerger.jpg" width="100%" alt="ERModsMerger social preview">
 </a>
@@ -118,6 +119,20 @@ A modernised **Elden Ring regulation and CSV parameter merging utility** with ve
 **`C#` `.NET` `Data processing` `GitHub Actions`**
 
 [View project →](https://github.com/Pav-Osmolski/ERModsMerger)
+
+-->
+
+<a href="https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler">
+  <img src="./assets/projects/REST.jpg" width="100%" alt="ReShade Effect Shader Toggler Enhanced social preview">
+</a>
+
+### [ReShade Effect Shader Toggler Enhanced](https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler)
+
+An extensively developed version of **REST for ReShade 6.8+**, with fine-grained rendering-pipeline injection across **Direct3D 11 and Vulkan**, including upscaled paths such as DLSS.
+
+**`C++` `Direct3D 11` `Vulkan` `ReShade API`**
+
+[View project →](https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler)
 
 </td>
 </tr>
