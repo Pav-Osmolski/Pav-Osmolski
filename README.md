@@ -153,7 +153,7 @@ An extensively developed version of **REST for ReShade 6.8+**, with fine-grained
 
 ### Elsewhere
 
-[**Portfolio**](https://www.pawel-osmolski.com/) · [**LinkedIn**](https://www.linkedin.com/in/pawel-osmolski/) · [**GitHub**](https://github.com/Pav-Osmolski) · [**My Music**](https://www.filiposcar.com/)
+[**Portfolio**](https://www.pawel-osmolski.com/) · [**LinkedIn**](https://www.linkedin.com/in/pawel-osmolski/) · [**GitHub**](https://github.com/Pav-Osmolski) · [**My Music**](https://www.filiposcar.com/) · [**Ko-fi**](https://ko-fi.com/devilhood42)
 
 <sub>Thanks for stopping by. Have a rummage around the repos.</sub>
 
