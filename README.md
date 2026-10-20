@@ -59,17 +59,17 @@ Outside conventional web development, I build and maintain open-source software 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Pav-Osmolski/AMPBoard">
-  <img src="./assets/projects/AMPBoard.jpg" width="100%" alt="AMPBoard social preview">
+<a href="https://github.com/Pav-Osmolski/DS4Windows">
+  <img src="./assets/projects/DS4Windows.jpg" width="100%" alt="DS4Windows social preview">
 </a>
 
-### [AMPBoard](https://github.com/Pav-Osmolski/AMPBoard)
+### [DS4Windows](https://github.com/Pav-Osmolski/DS4Windows)
 
-A modern localhost and remote dashboard for **XAMPP, LAMP and MAMP** development environments, with project discovery, live system stats, configuration tools and a responsive administration interface.
+A modernised **Windows controller remapping application** with per-game profiles, gyro aiming, advanced haptics and adaptive triggers, alongside a redesigned interface and improved diagnostics.
 
-**`PHP` `JavaScript` `MySQL` `Apache`**
+**`C#` `.NET` `UI/UX` `GitHub Actions`**
 
-[View project →](https://github.com/Pav-Osmolski/AMPBoard)
+[View project →](https://github.com/Pav-Osmolski/DS4Windows)
 
 </td>
 <td width="50%" valign="top">
@@ -92,35 +92,20 @@ A modern x64 continuation of tedGo's **DarkOne foobar2000 theme**, rebuilt aroun
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/Pav-Osmolski/DS4Windows">
-  <img src="./assets/projects/DS4Windows.jpg" width="100%" alt="DS4Windows social preview">
+<a href="https://github.com/Pav-Osmolski/AMPBoard">
+  <img src="./assets/projects/AMPBoard.jpg" width="100%" alt="AMPBoard social preview">
 </a>
 
-### [DS4Windows](https://github.com/Pav-Osmolski/DS4Windows)
+### [AMPBoard](https://github.com/Pav-Osmolski/AMPBoard)
 
-A modernised **Windows controller remapping application** with per-game profiles, gyro aiming, advanced haptics and adaptive triggers, alongside a redesigned interface and improved diagnostics.
+A modern localhost and remote dashboard for **XAMPP, LAMP and MAMP** development environments, with project discovery, live system stats, configuration tools and a responsive administration interface.
 
-**`C#` `.NET` `UI/UX` `GitHub Actions`**
+**`PHP` `JavaScript` `MySQL` `Apache`**
 
-[View project →](https://github.com/Pav-Osmolski/DS4Windows)
+[View project →](https://github.com/Pav-Osmolski/AMPBoard)
 
 </td>
 <td width="50%" valign="top">
-
-<!--
-<a href="https://github.com/Pav-Osmolski/ERModsMerger">
-  <img src="./assets/projects/ERModsMerger.jpg" width="100%" alt="ERModsMerger social preview">
-</a>
-
-### [ERModsMerger](https://github.com/Pav-Osmolski/ERModsMerger)
-
-A modernised **Elden Ring regulation and CSV parameter merging utility** with version-aware merging, semantic PARAM conflict handling, validation tooling and automated releases.
-
-**`C#` `.NET` `Data processing` `GitHub Actions`**
-
-[View project →](https://github.com/Pav-Osmolski/ERModsMerger)
-
--->
 
 <a href="https://github.com/Pav-Osmolski/ReshadeEffectShaderToggler">
   <img src="./assets/projects/REST.jpg" width="100%" alt="ReShade Effect Shader Toggler Enhanced social preview">
@@ -136,6 +121,27 @@ An extensively developed version of **REST for ReShade 6.8+**, with fine-grained
 
 </td>
 </tr>
+
+<!--
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Pav-Osmolski/ERModsMerger">
+  <img src="./assets/projects/ERModsMerger.jpg" width="100%" alt="ERModsMerger social preview">
+</a>
+
+### [ERModsMerger](https://github.com/Pav-Osmolski/ERModsMerger)
+
+A modernised **Elden Ring regulation and CSV parameter merging utility** with version-aware merging, semantic PARAM conflict handling, validation tooling and automated releases.
+
+**`C#` `.NET` `Data processing` `GitHub Actions`**
+
+[View project →](https://github.com/Pav-Osmolski/ERModsMerger)
+
+</td>
+</tr>
+-->
+
 </table>
 
 ## What I care about
